@@ -6,7 +6,7 @@
 -> Image recognition assigns a label to an image. A picture of a car receives the label “dog”. A picture of two dogs, still receives the label “dog”. 
 -> Object detection, on the other hand, draws a box around each dog and labels the box “dog”. The model predicts where each object is and what label should be applied. In that way, object detection provides more information about an image than recognition.
 
-<img src="https://github.com/HastiSutaria/winter-of-contributing/blob/Datascience_With_Python/Datascience_With_Python/Computer%20Vision/Projects/Object%20Detection/Images/ssd1Article.jpg" align = "center" alt="difference" width="400"/>
+<img src="https://github.com/HastiSutaria/Object-Detection/blob/main/Images/ssd1Article.jpg" align = "center" alt="difference" width="400"/>
 
 
 * Object detection can be broken down into machine learning-based approaches and deep learning-based approaches.
@@ -44,13 +44,13 @@ When it comes to object detection, popular detection frameworks are
  ## YOLO (You Only Look Once)
  
  Provided all the files are in the current directory : 
- * Requirements : [Visit here](https://github.com/HastiSutaria/winter-of-contributing/tree/Datascience_With_Python/Datascience_With_Python/Computer%20Vision/Projects/Object%20Detection/Requirements)
+ * Requirements : [Visit here](https://github.com/HastiSutaria/Object-Detection/blob/main/Requirements)
 
 ### Before
-<img src="https://github.com/HastiSutaria/winter-of-contributing/blob/Datascience_With_Python/Datascience_With_Python/Computer%20Vision/Projects/Object%20Detection/Images/sample.jpg" align = "center" alt="sampleinput" width="400"/>
+<img src="https://github.com/HastiSutaria/Object-Detection/blob/main/Images/sample.jpg" align = "center" alt="sampleinput" width="400"/>
 
 ### After
-<img src="https://github.com/HastiSutaria/winter-of-contributing/blob/Datascience_With_Python/Datascience_With_Python/Computer%20Vision/Projects/Object%20Detection/Images/Screenshot%202021-10-29%2015.21.44.png" align = "center" alt="sampleinput" width="400"/>
+<img src="https://github.com/HastiSutaria/Object-Detection/blob/main/Images/Screenshot%202021-10-29%2015.21.44.png" align = "center" alt="sampleinput" width="400"/>
 
 # Advantages
 * To locate and identity objects with box around it.
@@ -76,7 +76,7 @@ When it comes to object detection, popular detection frameworks are
 # Conclusion
 So to summarize, object detection can impact our life in a more positive way than ever before. I hope the above overview was helpful in understanding the basics of object detection and how it can be used in the real world. 
 
-### Refer the [Object-Detection](https://github.com/HastiSutaria/winter-of-contributing/blob/Datascience_With_Python/Datascience_With_Python/Computer%20Vision/Projects/Object%20Detection/obj_detection.ipynb) file for hands on experience. 
+### Refer the [Object-Detection](https://github.com/HastiSutaria/Object-Detection/blob/main/objDetection.ipynb) file for hands on experience. 
 
 # References :
 * https://towardsdatascience.com/
