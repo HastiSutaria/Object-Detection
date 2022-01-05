@@ -50,7 +50,7 @@ When it comes to object detection, popular detection frameworks are
 <img src="https://github.com/HastiSutaria/Object-Detection/blob/main/Images/sample.jpg" align = "center" alt="sampleinput" width="400"/>
 
 ### After
-<img src="https://github.com/HastiSutaria/Object-Detection/blob/main/Images/Screenshot%202021-10-29%2015.21.44.png" align = "center" alt="sampleinput" width="400"/>
+<img src="https://github.com/HastiSutaria/Object-Detection/blob/main/Images/object_detection_sample_img.png" align = "center" alt="sampleinput" width="400"/>
 
 # Advantages
 * To locate and identity objects with box around it.
